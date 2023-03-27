@@ -1,2 +1,2 @@
 # ForeBear-Landing-Page
-Landing page for Golf clothing Lifestyle Brand 
+Landing page for Golf Clothing Lifestyle Brand 
